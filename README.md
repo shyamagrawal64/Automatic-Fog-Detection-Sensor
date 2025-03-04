@@ -49,5 +49,5 @@ Upload the code to Arduino Uno using the Arduino IDE.
 Open the Serial Monitor (9600 baud rate) to view real-time sensor readings.
 Observe the LED turning ON/OFF based on fog conditions.
 Contributors
-Shyam Agrawal
+Shyam Agrawal and 
 Harshit Arora
